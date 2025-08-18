@@ -2,6 +2,8 @@
 
 Integrate any MCP Client that has STDIO MCP Server Support (most do) with the Streamable HTTP MCP Servers
 
+If you have a Streamable HTTP MCP Server, forking this, hardcoding the URI and publishing will give you a repo that you can point to, add to directories and let people use via STDIO.
+
 _Note_: This has similarities to the [mcp-remote package](https://www.npmjs.com/package/mcp-remote)
 
 ## Why?
